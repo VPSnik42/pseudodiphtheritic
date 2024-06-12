@@ -1,0 +1,25 @@
+{
+    "name": "Jennifer Bass MD",
+    "age": 113,
+    "address": {
+        "street": "Donaldson Village",
+        "city": "Madisonport",
+        "state": "North Dakota",
+        "zip": "98971"
+    },
+    "contact": {
+        "phone": "+1-825-562-1672x8981",
+        "servicePhone": "800131843"
+    },
+    "birthday": "1912-04-04",
+    "ip": "38.20.198.249",
+    "foo": "bar",
+    "profile": {
+        "about": "Attention key defense single guess. Language care ask peace manage most sell. Movement audience return do training.",
+        "bio": "Go write with career could environment American. Letter produce opportunity picture choose event real.\nMajority show buy apply why book computer. Indeed explain either beyond management nice Mr past."
+    },
+    "currency": [
+        "GMD",
+        "Gambian dalasi"
+    ]
+}
