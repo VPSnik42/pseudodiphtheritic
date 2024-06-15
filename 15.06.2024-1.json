@@ -1,0 +1,25 @@
+{
+    "name": "Beth Sanchez",
+    "age": 46,
+    "address": {
+        "street": "Sparks Plaza",
+        "city": "Lake Darlene",
+        "state": "South Dakota",
+        "zip": "68647"
+    },
+    "contact": {
+        "phone": "+1-475-590-9405",
+        "servicePhone": "800354188"
+    },
+    "birthday": "1979-25-10",
+    "ip": "99.54.3.162",
+    "foo": "bar",
+    "profile": {
+        "about": "Bag exist professor lay baby. Art film forget happen window all skin. Simply almost indeed yeah office occur hold.\nEver main worry maintain establish. Sit forward firm specific clearly blue value.",
+        "bio": "Process everything house sound program structure sometimes easy. Toward character certainly brother. Reduce fire college evening for hear."
+    },
+    "currency": [
+        "CHF",
+        "Swiss franc"
+    ]
+}
