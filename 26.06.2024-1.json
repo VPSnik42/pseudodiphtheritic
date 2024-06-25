@@ -1,0 +1,25 @@
+{
+    "name": "Jennifer Gonzalez",
+    "age": 26,
+    "address": {
+        "street": "Parker Squares",
+        "city": "South Rebeccahaven",
+        "state": "Wisconsin",
+        "zip": "40705"
+    },
+    "contact": {
+        "phone": "(740)489-6456",
+        "servicePhone": "800822050"
+    },
+    "birthday": "1999-06-03",
+    "ip": "114.65.171.203",
+    "foo": "bar",
+    "profile": {
+        "about": "Admit single trade manager. Real simple positive loss my great.\nSpace your sister feel blood benefit. People begin out magazine why wife. Number almost few including activity.",
+        "bio": "Including every law really return. Win attack technology.\nTable six personal moment. Role hope bring consumer rest.\nOil film fight."
+    },
+    "currency": [
+        "KRW",
+        "South Korean won"
+    ]
+}
