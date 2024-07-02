@@ -1,0 +1,25 @@
+{
+    "name": "Amanda Berger",
+    "age": 40,
+    "address": {
+        "street": "Brian Harbors",
+        "city": "East Derrickville",
+        "state": "Maryland",
+        "zip": "80597"
+    },
+    "contact": {
+        "phone": "527-655-1825",
+        "servicePhone": "800427622"
+    },
+    "birthday": "1985-01-06",
+    "ip": "122.113.124.201",
+    "foo": "bar",
+    "profile": {
+        "about": "Win answer foot. Population which better but north side anyone. Relate international when use. Moment southern there memory usually agree present.",
+        "bio": "Finally open accept ago. Direction save still truth. Population group never open stage.\nPm talk leave court leader five group. Week remember any expect gun."
+    },
+    "currency": [
+        "ISK",
+        "Icelandic króna"
+    ]
+}
