@@ -1,0 +1,25 @@
+{
+    "name": "Linda Brady",
+    "age": 78,
+    "address": {
+        "street": "Wong Trafficway",
+        "city": "North Jeffreyfort",
+        "state": "Vermont",
+        "zip": "95490"
+    },
+    "contact": {
+        "phone": "906.661.3025x25396",
+        "servicePhone": "800760902"
+    },
+    "birthday": "1947-25-04",
+    "ip": "80.3.121.241",
+    "foo": "bar",
+    "profile": {
+        "about": "Level turn act increase peace forward quite. Just they sell price admit center. Political arrive laugh six.\nLet thank concern. Television direction glass occur attack. Movement heavy American big.",
+        "bio": "Poor break later fall action city. Few billion might thing almost follow catch. Or local hope reach.\nPast sister teach. Lose tonight read media try across machine."
+    },
+    "currency": [
+        "MOP",
+        "Macanese pataca"
+    ]
+}
