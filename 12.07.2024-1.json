@@ -1,0 +1,25 @@
+{
+    "name": "Denise Todd",
+    "age": 22,
+    "address": {
+        "street": "Karen Rue",
+        "city": "South Jessica",
+        "state": "Tennessee",
+        "zip": "87337"
+    },
+    "contact": {
+        "phone": "598-403-8720x41745",
+        "servicePhone": "800867601"
+    },
+    "birthday": "2003-26-11",
+    "ip": "208.36.191.72",
+    "foo": "bar",
+    "profile": {
+        "about": "At report consumer school young individual. Lay four buy couple final.\nFocus us still although significant mean. Of pass deep speech. Because draw environmental knowledge.",
+        "bio": "Generation statement later value. Training season detail.\nGoal course nothing growth happen financial. Yourself organization environmental start truth here."
+    },
+    "currency": [
+        "NPR",
+        "Nepalese rupee"
+    ]
+}
