@@ -1,0 +1,25 @@
+{
+    "name": "Karen Everett",
+    "age": 42,
+    "address": {
+        "street": "Cynthia Station",
+        "city": "New Tylershire",
+        "state": "Indiana",
+        "zip": "81332"
+    },
+    "contact": {
+        "phone": "821.815.4674",
+        "servicePhone": "800394573"
+    },
+    "birthday": "1983-14-03",
+    "ip": "157.122.8.157",
+    "foo": "bar",
+    "profile": {
+        "about": "Eat thousand establish two mind although. Admit way scientist lawyer. And gas score create whom film certain.",
+        "bio": "Responsibility number father with. Both voice today figure more.\nLight author seek former. Imagine former especially how lot against. Rather no near."
+    },
+    "currency": [
+        "ILS",
+        "Israeli new shekel"
+    ]
+}
