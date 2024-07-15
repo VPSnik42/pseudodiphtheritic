@@ -1,0 +1,25 @@
+{
+    "name": "Christopher Becker",
+    "age": 17,
+    "address": {
+        "street": "Larry Inlet",
+        "city": "East Anthonyland",
+        "state": "Wyoming",
+        "zip": "17207"
+    },
+    "contact": {
+        "phone": "(580)498-1248x480",
+        "servicePhone": "800064314"
+    },
+    "birthday": "2008-15-02",
+    "ip": "187.208.254.173",
+    "foo": "bar",
+    "profile": {
+        "about": "Administration feel phone say entire.\nFirm population study large participant time. Agent contain keep bed. Training west safe truth.",
+        "bio": "Serve front imagine. Note nature then month ahead.\nFive short benefit easy white theory about even."
+    },
+    "currency": [
+        "AFN",
+        "Afghan afghani"
+    ]
+}
