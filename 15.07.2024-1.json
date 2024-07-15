@@ -1,0 +1,25 @@
+{
+    "name": "Mary Lewis",
+    "age": 11,
+    "address": {
+        "street": "Nelson Mission",
+        "city": "Port Susanchester",
+        "state": "Montana",
+        "zip": "46783"
+    },
+    "contact": {
+        "phone": "771.994.6682",
+        "servicePhone": "800169310"
+    },
+    "birthday": "2014-05-06",
+    "ip": "196.20.109.118",
+    "foo": "bar",
+    "profile": {
+        "about": "Prepare force within main arm west. Help party religious half. Physical morning woman without who.\nRange around really government man. Late call personal face interesting.",
+        "bio": "Join authority room of mother will here present. Tough seek sport do front."
+    },
+    "currency": [
+        "ZAR",
+        "South African rand"
+    ]
+}
