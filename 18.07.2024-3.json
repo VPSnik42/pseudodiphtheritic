@@ -1,0 +1,25 @@
+{
+    "name": "Tracey Allen",
+    "age": 83,
+    "address": {
+        "street": "Ali Isle",
+        "city": "Popeview",
+        "state": "Georgia",
+        "zip": "19630"
+    },
+    "contact": {
+        "phone": "864.365.0037x2785",
+        "servicePhone": "800023430"
+    },
+    "birthday": "1942-02-08",
+    "ip": "203.124.31.41",
+    "foo": "bar",
+    "profile": {
+        "about": "Become couple hold human. Read hotel so seven chair provide. Thousand chair science. Responsibility person political time carry building.",
+        "bio": "Purpose help clearly somebody north less hold.\nModel skill bring remember order discussion push arrive. Court quite character increase cup. Recently bill reveal little himself pretty mouth benefit."
+    },
+    "currency": [
+        "LYD",
+        "Libyan dinar"
+    ]
+}
