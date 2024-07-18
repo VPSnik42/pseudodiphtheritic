@@ -1,0 +1,25 @@
+{
+    "name": "Jonathan Gilmore",
+    "age": 11,
+    "address": {
+        "street": "Joel Mills",
+        "city": "East Alexander",
+        "state": "South Carolina",
+        "zip": "76854"
+    },
+    "contact": {
+        "phone": "001-842-575-1578",
+        "servicePhone": "800521524"
+    },
+    "birthday": "2014-17-03",
+    "ip": "106.15.171.1",
+    "foo": "bar",
+    "profile": {
+        "about": "Field media manager close interview. Nature me sport baby home a. True order clear begin as.\nSuffer gun true. Individual protect hand sure yes role dog. Opportunity sense pass few let memory.",
+        "bio": "Behavior rest arm present without begin. Of despite garden decision."
+    },
+    "currency": [
+        "BTN",
+        "Bhutanese ngultrum"
+    ]
+}
