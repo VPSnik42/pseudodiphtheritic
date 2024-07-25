@@ -1,0 +1,25 @@
+{
+    "name": "Karen Lutz",
+    "age": 78,
+    "address": {
+        "street": "John Valleys",
+        "city": "Dunnport",
+        "state": "Kentucky",
+        "zip": "57229"
+    },
+    "contact": {
+        "phone": "+1-701-698-2594x2104",
+        "servicePhone": "800509515"
+    },
+    "birthday": "1947-27-05",
+    "ip": "163.30.160.94",
+    "foo": "bar",
+    "profile": {
+        "about": "Ask fast guy agree college bar.\nApply us commercial tree. Ask to forget main green court sure.\nExplain buy baby because either. Determine result religious capital.",
+        "bio": "Hold hotel inside health other account. Parent career reflect enter provide them. Age chair age party hour stage."
+    },
+    "currency": [
+        "SZL",
+        "Swazi lilangeni"
+    ]
+}
