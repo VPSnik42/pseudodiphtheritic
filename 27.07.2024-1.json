@@ -1,0 +1,25 @@
+{
+    "name": "Bobby Rodriguez",
+    "age": 116,
+    "address": {
+        "street": "Jeanette Mountains",
+        "city": "North Brittany",
+        "state": "New Mexico",
+        "zip": "92046"
+    },
+    "contact": {
+        "phone": "(478)798-8814x1183",
+        "servicePhone": "800130386"
+    },
+    "birthday": "1909-03-08",
+    "ip": "11.204.100.78",
+    "foo": "bar",
+    "profile": {
+        "about": "Seven section section meet camera. Blue government movement then leader rather. Write eat matter individual.\nPopular hand official mention allow author. Soon far police few only charge.",
+        "bio": "Avoid continue medical heavy follow we prepare.\nDay laugh new senior get although goal. Model itself traditional true. Summer already thing save son. Position community study name."
+    },
+    "currency": [
+        "ZAR",
+        "South African rand"
+    ]
+}
