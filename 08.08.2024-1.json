@@ -1,0 +1,25 @@
+{
+    "name": "Rachel Rodriguez",
+    "age": 89,
+    "address": {
+        "street": "Burton Street",
+        "city": "Richardmouth",
+        "state": "New Jersey",
+        "zip": "61118"
+    },
+    "contact": {
+        "phone": "001-228-660-6775",
+        "servicePhone": "800059864"
+    },
+    "birthday": "1936-07-10",
+    "ip": "173.106.185.41",
+    "foo": "bar",
+    "profile": {
+        "about": "Campaign out science gas. Describe prove seat possible. Move rich skill heart. Image push soon though together simply design.",
+        "bio": "Thought deal pattern sister door upon. His age whether young such behind. Nation art study theory modern participant."
+    },
+    "currency": [
+        "AWG",
+        "Aruban florin"
+    ]
+}
