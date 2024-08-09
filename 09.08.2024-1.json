@@ -1,0 +1,25 @@
+{
+    "name": "Michael Sanders",
+    "age": 31,
+    "address": {
+        "street": "Erin Causeway",
+        "city": "Port Pamelafort",
+        "state": "Wyoming",
+        "zip": "35106"
+    },
+    "contact": {
+        "phone": "6874893363",
+        "servicePhone": "800004571"
+    },
+    "birthday": "1994-05-09",
+    "ip": "212.114.60.154",
+    "foo": "bar",
+    "profile": {
+        "about": "Source share social add. Effect write night once scientist run. Range nation pay quite degree.\nThere structure whatever remain.\nAdult similar interview size despite sure. Know small activity.",
+        "bio": "Because news player report son community. Watch term material really sense. Open institution arrive. Just claim key road leave within hit sense."
+    },
+    "currency": [
+        "VEF",
+        "Venezuelan bolívar"
+    ]
+}
