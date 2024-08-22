@@ -1,0 +1,25 @@
+{
+    "name": "William Wilson",
+    "age": 37,
+    "address": {
+        "street": "Griffin Parks",
+        "city": "Port Brittanychester",
+        "state": "Delaware",
+        "zip": "64994"
+    },
+    "contact": {
+        "phone": "7683059718",
+        "servicePhone": "800659921"
+    },
+    "birthday": "1988-30-10",
+    "ip": "53.198.226.43",
+    "foo": "bar",
+    "profile": {
+        "about": "Sign quickly everything occur person decision. Certain road film ever another last. Arm season ground car someone.",
+        "bio": "Phone training always in start green. Better really character hear interest."
+    },
+    "currency": [
+        "MXN",
+        "Mexican peso"
+    ]
+}
