@@ -1,0 +1,25 @@
+{
+    "name": "Sandra Cruz",
+    "age": 30,
+    "address": {
+        "street": "Tamara Pass",
+        "city": "New Crystal",
+        "state": "Alabama",
+        "zip": "31680"
+    },
+    "contact": {
+        "phone": "239-853-7815x3329",
+        "servicePhone": "800420539"
+    },
+    "birthday": "1995-13-12",
+    "ip": "41.6.200.94",
+    "foo": "bar",
+    "profile": {
+        "about": "My area choose not dinner. Table also fire miss usually.\nFrom those reason whatever nice. Bring window thing thousand special.",
+        "bio": "Church so general type anything exist. Civil window home too.\nFriend meet your one image real. Result these light after. Produce race high able."
+    },
+    "currency": [
+        "LSL",
+        "Lesotho loti"
+    ]
+}
