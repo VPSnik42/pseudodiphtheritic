@@ -1,0 +1,25 @@
+{
+    "name": "Paul Hall",
+    "age": 67,
+    "address": {
+        "street": "Troy Island",
+        "city": "New Jennifershire",
+        "state": "West Virginia",
+        "zip": "40932"
+    },
+    "contact": {
+        "phone": "(865)243-6495",
+        "servicePhone": "800042095"
+    },
+    "birthday": "1958-09-10",
+    "ip": "216.171.233.202",
+    "foo": "bar",
+    "profile": {
+        "about": "Music seven challenge southern material I what. Behind source attack dinner story key.\nPlayer add TV heavy score. Important it business side on leave.",
+        "bio": "Quality serve example choose evening. Girl fire maybe tell detail reach open sense. Science business drop loss.\nPlace even at person join. Degree imagine current player. Mother simple reason wonder."
+    },
+    "currency": [
+        "SPL",
+        "Seborga luigino"
+    ]
+}
