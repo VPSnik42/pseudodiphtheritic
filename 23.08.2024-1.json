@@ -1,0 +1,25 @@
+{
+    "name": "Raymond Carter",
+    "age": 35,
+    "address": {
+        "street": "Jessica Coves",
+        "city": "Brownfurt",
+        "state": "Connecticut",
+        "zip": "62334"
+    },
+    "contact": {
+        "phone": "001-321-847-8925x497",
+        "servicePhone": "800267429"
+    },
+    "birthday": "1990-13-10",
+    "ip": "41.234.222.35",
+    "foo": "bar",
+    "profile": {
+        "about": "Best room suggest time include. Cut worry investment early matter.\nSea but onto respond.\nWrong image person value cause television traditional heart.",
+        "bio": "Sport provide him well. Certainly sport student billion sound.\nBlue really behind. Exactly pass few too.\nDifference add majority energy seven cut bit. Course reality benefit of necessary generation."
+    },
+    "currency": [
+        "EUR",
+        "Euro"
+    ]
+}
