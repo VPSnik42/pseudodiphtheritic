@@ -1,0 +1,25 @@
+{
+    "name": "Michael Lester",
+    "age": 115,
+    "address": {
+        "street": "Robin Mission",
+        "city": "Grantton",
+        "state": "Oregon",
+        "zip": "35087"
+    },
+    "contact": {
+        "phone": "(796)628-6805x367",
+        "servicePhone": "800919460"
+    },
+    "birthday": "1910-22-11",
+    "ip": "12.94.208.125",
+    "foo": "bar",
+    "profile": {
+        "about": "Next outside have mean us story. First site dog event.\nShoulder eight wall stop. Key among claim. Test page account record recognize interview blue.\nRace thousand involve black investment.",
+        "bio": "Race recent memory art side interview. Growth whose view. Really any marriage role report."
+    },
+    "currency": [
+        "LTL",
+        "Lithuanian litas"
+    ]
+}
