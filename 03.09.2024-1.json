@@ -1,0 +1,25 @@
+{
+    "name": "Catherine Hudson",
+    "age": 27,
+    "address": {
+        "street": "Keith Burgs",
+        "city": "Finleychester",
+        "state": "Oklahoma",
+        "zip": "42115"
+    },
+    "contact": {
+        "phone": "+1-394-400-5159x449",
+        "servicePhone": "800085763"
+    },
+    "birthday": "1998-14-11",
+    "ip": "89.27.28.178",
+    "foo": "bar",
+    "profile": {
+        "about": "Summer former expert loss indeed. Edge various wait suffer through. Whole career human watch create play economic put.",
+        "bio": "Economy at suggest house although. Ready outside matter police wear we meeting commercial.\nEdge build product mention. Above where federal our."
+    },
+    "currency": [
+        "FKP",
+        "Falkland Islands pound"
+    ]
+}
