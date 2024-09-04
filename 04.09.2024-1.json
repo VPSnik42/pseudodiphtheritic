@@ -1,0 +1,25 @@
+{
+    "name": "Jennifer Johnson",
+    "age": 58,
+    "address": {
+        "street": "Courtney View",
+        "city": "Port Diamond",
+        "state": "South Carolina",
+        "zip": "23239"
+    },
+    "contact": {
+        "phone": "(977)523-6809x259",
+        "servicePhone": "800450803"
+    },
+    "birthday": "1967-19-05",
+    "ip": "52.33.36.110",
+    "foo": "bar",
+    "profile": {
+        "about": "Respond act become suffer different job team. Medical face catch pull. Never receive miss lay amount. Course expect player time since.\nThus two kind. Gas participant network air federal base.",
+        "bio": "Fill scene for tree.\nLight occur reason paper two. The score measure the people. Dog usually wind.\nAssume threat edge. Sort foreign why.\nFull around season red."
+    },
+    "currency": [
+        "JPY",
+        "Japanese yen"
+    ]
+}
