@@ -1,0 +1,25 @@
+{
+    "name": "Jennifer Mendoza",
+    "age": 101,
+    "address": {
+        "street": "Andrew Underpass",
+        "city": "North James",
+        "state": "New Jersey",
+        "zip": "78987"
+    },
+    "contact": {
+        "phone": "393-496-4280x9542",
+        "servicePhone": "800900888"
+    },
+    "birthday": "1924-13-08",
+    "ip": "39.123.244.8",
+    "foo": "bar",
+    "profile": {
+        "about": "Pass stuff this top. Kid quality walk yard. Challenge remember form. Issue under great reveal increase event actually.",
+        "bio": "Occur start respond school. Evidence history ever win great. Base television market lead.\nYet writer dream. True quality impact president others offer ask. Special rest right room sense half."
+    },
+    "currency": [
+        "MRO",
+        "Mauritanian ouguiya"
+    ]
+}
