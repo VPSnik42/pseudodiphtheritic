@@ -1,0 +1,25 @@
+{
+    "name": "Mark Summers",
+    "age": 14,
+    "address": {
+        "street": "Barnes Path",
+        "city": "East Jenna",
+        "state": "Michigan",
+        "zip": "17999"
+    },
+    "contact": {
+        "phone": "773.222.7781",
+        "servicePhone": "800758798"
+    },
+    "birthday": "2011-06-07",
+    "ip": "19.8.236.241",
+    "foo": "bar",
+    "profile": {
+        "about": "Easy high mouth wear follow education Congress. Watch your garden large happen far. Suggest finally customer east news foreign.",
+        "bio": "Race service PM their ability organization school. Home power language lead anything form. Professional successful result make camera listen pick thank."
+    },
+    "currency": [
+        "AOA",
+        "Angolan kwanza"
+    ]
+}
