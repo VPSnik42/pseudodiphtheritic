@@ -1,0 +1,25 @@
+{
+    "name": "Sarah Benson",
+    "age": 51,
+    "address": {
+        "street": "Howell Land",
+        "city": "Johnsonborough",
+        "state": "Tennessee",
+        "zip": "51662"
+    },
+    "contact": {
+        "phone": "(791)576-1564",
+        "servicePhone": "800199960"
+    },
+    "birthday": "1974-13-05",
+    "ip": "55.53.87.17",
+    "foo": "bar",
+    "profile": {
+        "about": "Difference price large husband social. Painting modern federal maintain. Box stuff set over research wide popular claim.\nBecause star simple each than since. Make car yourself impact history.",
+        "bio": "Activity art example culture. Week argue happy during.\nBeautiful generation city hour rise environmental federal. Chance box between. Agreement avoid important."
+    },
+    "currency": [
+        "KES",
+        "Kenyan shilling"
+    ]
+}
