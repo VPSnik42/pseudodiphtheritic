@@ -1,0 +1,25 @@
+{
+    "name": "Ashley Carroll",
+    "age": 44,
+    "address": {
+        "street": "Cole Viaduct",
+        "city": "East Jorgeberg",
+        "state": "New Jersey",
+        "zip": "03742"
+    },
+    "contact": {
+        "phone": "(465)383-0556",
+        "servicePhone": "800342824"
+    },
+    "birthday": "1981-15-08",
+    "ip": "163.198.139.90",
+    "foo": "bar",
+    "profile": {
+        "about": "Save against stand mouth home. Ago story though author project reality.\nHusband its strategy relate arrive consider learn government. Environmental deal could hand.",
+        "bio": "Itself whatever do probably it. Their fear Mrs simply network job. Join change husband hospital."
+    },
+    "currency": [
+        "TND",
+        "Tunisian dinar"
+    ]
+}
