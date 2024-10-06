@@ -1,0 +1,25 @@
+{
+    "name": "Andrea Kelley",
+    "age": 5,
+    "address": {
+        "street": "Palmer Coves",
+        "city": "Griffinburgh",
+        "state": "Michigan",
+        "zip": "93007"
+    },
+    "contact": {
+        "phone": "8936094838",
+        "servicePhone": "800057827"
+    },
+    "birthday": "2020-31-10",
+    "ip": "14.107.169.198",
+    "foo": "bar",
+    "profile": {
+        "about": "This its tend clear. Purpose wide apply friend result prepare water.\nStuff discover while like group. Those society medical magazine person. Current per class rich bill.",
+        "bio": "Laugh ahead run player up forget. Modern keep energy debate.\nGoal house during them stock prevent center. Positive young religious. Detail though develop billion discuss local significant."
+    },
+    "currency": [
+        "HUF",
+        "Hungarian forint"
+    ]
+}
