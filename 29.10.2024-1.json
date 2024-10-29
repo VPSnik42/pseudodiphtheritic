@@ -1,0 +1,25 @@
+{
+    "name": "Margaret Knox",
+    "age": 56,
+    "address": {
+        "street": "Ward Centers",
+        "city": "Angelaside",
+        "state": "Arizona",
+        "zip": "89868"
+    },
+    "contact": {
+        "phone": "001-626-253-4464x700",
+        "servicePhone": "800325414"
+    },
+    "birthday": "1969-20-05",
+    "ip": "106.52.161.241",
+    "foo": "bar",
+    "profile": {
+        "about": "Role five knowledge center send. Audience officer by from quality.\nFloor different simply each worker same. Admit agent stuff represent boy build act.",
+        "bio": "Claim attention Congress accept practice actually. Phone simple under factor wear quickly. Population piece couple result no animal.\nSoon run analysis serve visit build mean."
+    },
+    "currency": [
+        "SRD",
+        "Surinamese dollar"
+    ]
+}
