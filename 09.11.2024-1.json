@@ -1,0 +1,25 @@
+{
+    "name": "Henry Davis",
+    "age": 4,
+    "address": {
+        "street": "Garcia Lake",
+        "city": "Jessicamouth",
+        "state": "Nevada",
+        "zip": "93555"
+    },
+    "contact": {
+        "phone": "563.492.1327x5404",
+        "servicePhone": "800757188"
+    },
+    "birthday": "2021-11-04",
+    "ip": "152.78.243.134",
+    "foo": "bar",
+    "profile": {
+        "about": "Authority our paper happy key house. Treatment dark sit use price understand.\nFind range very three color specific. Song spend Republican party Democrat. Sort rich middle check try eye court affect.",
+        "bio": "Sign fund perform science place science. Themselves trip security account.\nNetwork situation behavior. Foot bag place. One perhaps away without."
+    },
+    "currency": [
+        "SHP",
+        "Saint Helena pound"
+    ]
+}
