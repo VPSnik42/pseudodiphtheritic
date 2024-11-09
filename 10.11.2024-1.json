@@ -1,0 +1,25 @@
+{
+    "name": "Jill Phillips",
+    "age": 53,
+    "address": {
+        "street": "Harris Mount",
+        "city": "Kingfort",
+        "state": "Virginia",
+        "zip": "70913"
+    },
+    "contact": {
+        "phone": "(930)245-1069",
+        "servicePhone": "800446036"
+    },
+    "birthday": "1972-07-03",
+    "ip": "109.168.125.243",
+    "foo": "bar",
+    "profile": {
+        "about": "Father meeting tree but book else everybody value.\nPlay great level score adult cut. Chair part measure keep.\nAbove them offer contain office environment eight. His able both development your.",
+        "bio": "Month first difference view measure now try.\nRange expert yard section spend old watch. Fall stock lose.\nThree head moment a. Walk development country baby detail."
+    },
+    "currency": [
+        "BIF",
+        "Burundian franc"
+    ]
+}
