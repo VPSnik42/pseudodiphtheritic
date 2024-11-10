@@ -1,0 +1,25 @@
+{
+    "name": "Alexandra Brewer",
+    "age": 52,
+    "address": {
+        "street": "Ricky View",
+        "city": "East Josestad",
+        "state": "Nebraska",
+        "zip": "02698"
+    },
+    "contact": {
+        "phone": "+1-826-854-6611x5566",
+        "servicePhone": "800860025"
+    },
+    "birthday": "1973-29-11",
+    "ip": "48.97.178.55",
+    "foo": "bar",
+    "profile": {
+        "about": "Level she wonder later. Pass good rule next lead technology everything. Right around unit nothing leader suffer great.",
+        "bio": "Century several customer apply house.\nHalf mission seven cup several budget foot. Area strategy little company. Prepare series apply activity."
+    },
+    "currency": [
+        "AMD",
+        "Armenian dram"
+    ]
+}
