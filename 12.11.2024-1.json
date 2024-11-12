@@ -1,0 +1,25 @@
+{
+    "name": "Sherry Myers",
+    "age": 37,
+    "address": {
+        "street": "Becker Throughway",
+        "city": "Kathyburgh",
+        "state": "New York",
+        "zip": "22323"
+    },
+    "contact": {
+        "phone": "(486)954-0914",
+        "servicePhone": "800881769"
+    },
+    "birthday": "1988-02-02",
+    "ip": "222.151.128.217",
+    "foo": "bar",
+    "profile": {
+        "about": "Add white apply reduce nice mouth hotel. Degree national notice car. Contain business believe ten.",
+        "bio": "Word yeah tax red former like protect. Understand important assume."
+    },
+    "currency": [
+        "GTQ",
+        "Guatemalan quetzal"
+    ]
+}
