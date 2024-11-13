@@ -1,0 +1,25 @@
+{
+    "name": "Randall Romero",
+    "age": 82,
+    "address": {
+        "street": "Stanley Alley",
+        "city": "East Cynthiafort",
+        "state": "Texas",
+        "zip": "12347"
+    },
+    "contact": {
+        "phone": "(473)276-5656x00593",
+        "servicePhone": "800531692"
+    },
+    "birthday": "1943-08-06",
+    "ip": "85.86.77.207",
+    "foo": "bar",
+    "profile": {
+        "about": "Key institution subject today learn no lay. Bill million thank theory. Indeed effect adult well letter. Talk trip offer these.",
+        "bio": "Land week long market week hit. Network hair pay together.\nWith thing less surface learn discover. Project city best film relate above. Kind start positive they."
+    },
+    "currency": [
+        "BMD",
+        "Bermudian dollar"
+    ]
+}
