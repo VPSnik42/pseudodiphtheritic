@@ -1,0 +1,25 @@
+{
+    "name": "Jeffrey Santiago",
+    "age": 91,
+    "address": {
+        "street": "Eric Coves",
+        "city": "Russellfurt",
+        "state": "Idaho",
+        "zip": "33034"
+    },
+    "contact": {
+        "phone": "233-779-4023x18923",
+        "servicePhone": "800099614"
+    },
+    "birthday": "1934-31-08",
+    "ip": "143.73.33.62",
+    "foo": "bar",
+    "profile": {
+        "about": "Before black discuss might pretty big. Serious public young.\nThough necessary head sit room seven. Should establish show back two place.",
+        "bio": "Myself would station experience. General guess such range change camera pick vote.\nFight author strategy arrive. Than best would rather. Begin new protect effort cell."
+    },
+    "currency": [
+        "XDR",
+        "Special drawing rights"
+    ]
+}
