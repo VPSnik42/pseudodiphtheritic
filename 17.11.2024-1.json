@@ -1,0 +1,25 @@
+{
+    "name": "Robert Harris",
+    "age": 45,
+    "address": {
+        "street": "Thomas Trace",
+        "city": "Morganchester",
+        "state": "Tennessee",
+        "zip": "24764"
+    },
+    "contact": {
+        "phone": "2464994817",
+        "servicePhone": "800720655"
+    },
+    "birthday": "1980-17-10",
+    "ip": "46.21.239.159",
+    "foo": "bar",
+    "profile": {
+        "about": "Truth money coach. Likely challenge only among.\nPerformance mission back. Number though peace suggest. Participant experience remain himself claim.",
+        "bio": "Space order boy yet we. Beat bring discussion room attack reason. Congress key rise fund effort three.\nWear keep entire town difficult understand."
+    },
+    "currency": [
+        "FJD",
+        "Fijian dollar"
+    ]
+}
