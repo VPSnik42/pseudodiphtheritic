@@ -1,0 +1,25 @@
+{
+    "name": "Arthur Houston",
+    "age": 100,
+    "address": {
+        "street": "Bell Shores",
+        "city": "West Mariamouth",
+        "state": "Pennsylvania",
+        "zip": "64131"
+    },
+    "contact": {
+        "phone": "+1-511-737-5574x6010",
+        "servicePhone": "800251676"
+    },
+    "birthday": "1925-13-09",
+    "ip": "161.182.152.44",
+    "foo": "bar",
+    "profile": {
+        "about": "Total woman our as need. Television section third. Set above question cause several gun party.\nAvailable check Mrs mouth pick. War number past arm if. Film wonder fall event.",
+        "bio": "Too keep on month short score central. They may start but office every beyond.\nCommercial Congress way research upon item foot. Defense computer tax fund true. Election century partner act each."
+    },
+    "currency": [
+        "VEF",
+        "Venezuelan bolívar"
+    ]
+}
