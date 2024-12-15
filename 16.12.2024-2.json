@@ -1,0 +1,25 @@
+{
+    "name": "Kimberly Thomas",
+    "age": 112,
+    "address": {
+        "street": "Donald Pines",
+        "city": "Barbaraville",
+        "state": "Maryland",
+        "zip": "70258"
+    },
+    "contact": {
+        "phone": "+1-335-422-6525",
+        "servicePhone": "800858558"
+    },
+    "birthday": "1913-25-10",
+    "ip": "156.250.54.109",
+    "foo": "bar",
+    "profile": {
+        "about": "Product evening if hand prove hard several study. All consider of each whatever. Finish capital summer important.",
+        "bio": "Worry probably to executive someone. Work system upon eat toward what. Society war hour whom add its."
+    },
+    "currency": [
+        "SYP",
+        "Syrian pound"
+    ]
+}
