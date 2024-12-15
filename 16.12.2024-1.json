@@ -1,0 +1,25 @@
+{
+    "name": "Crystal Hayes",
+    "age": 25,
+    "address": {
+        "street": "Baker Divide",
+        "city": "Ramirezside",
+        "state": "North Carolina",
+        "zip": "16558"
+    },
+    "contact": {
+        "phone": "515.452.6193",
+        "servicePhone": "800768976"
+    },
+    "birthday": "2000-18-09",
+    "ip": "19.63.86.130",
+    "foo": "bar",
+    "profile": {
+        "about": "Nature bill option. Performance large industry think with against tax.\nSociety sign choice hit chance watch consumer. Out product weight green option for.",
+        "bio": "Degree evening prove but husband create. Both window including education back movement.\nCar hotel performance address. Current stand size bill visit table around."
+    },
+    "currency": [
+        "SGD",
+        "Singapore dollar"
+    ]
+}
