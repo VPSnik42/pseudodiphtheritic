@@ -1,0 +1,25 @@
+{
+    "name": "Stephen Sims",
+    "age": 48,
+    "address": {
+        "street": "Tammy Fall",
+        "city": "East Curtis",
+        "state": "Utah",
+        "zip": "34295"
+    },
+    "contact": {
+        "phone": "987.559.6810x84437",
+        "servicePhone": "800160541"
+    },
+    "birthday": "1977-17-12",
+    "ip": "74.72.61.208",
+    "foo": "bar",
+    "profile": {
+        "about": "Must whose prove group economy education. Set word city offer woman specific others. Debate Democrat face central hospital agent watch.",
+        "bio": "Owner themselves fine as. Oil measure important gas population see study.\nHeart red deal focus soon answer. Day page government drug second four become."
+    },
+    "currency": [
+        "BAM",
+        "Bosnia and Herzegovina convertible mark"
+    ]
+}
