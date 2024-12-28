@@ -1,0 +1,25 @@
+{
+    "name": "Curtis Andrews",
+    "age": 115,
+    "address": {
+        "street": "Flores Camp",
+        "city": "Port Joseph",
+        "state": "New Jersey",
+        "zip": "15242"
+    },
+    "contact": {
+        "phone": "864.809.1959x5098",
+        "servicePhone": "800057424"
+    },
+    "birthday": "1910-03-11",
+    "ip": "181.50.64.200",
+    "foo": "bar",
+    "profile": {
+        "about": "See scene notice cup. Sit plant decision matter candidate condition around. Raise provide both without box.",
+        "bio": "Hair air also during trouble key. Economy people require PM economic street. Ability officer certainly story write loss."
+    },
+    "currency": [
+        "IDR",
+        "Indonesian rupiah"
+    ]
+}
