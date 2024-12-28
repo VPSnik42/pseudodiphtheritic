@@ -1,0 +1,25 @@
+{
+    "name": "Leslie Sanchez",
+    "age": 107,
+    "address": {
+        "street": "Kaylee Road",
+        "city": "New Ericbury",
+        "state": "Vermont",
+        "zip": "34791"
+    },
+    "contact": {
+        "phone": "+1-622-237-6807x76376",
+        "servicePhone": "800641346"
+    },
+    "birthday": "1918-10-09",
+    "ip": "112.186.190.1",
+    "foo": "bar",
+    "profile": {
+        "about": "Subject business individual raise.\nBuy event sometimes need dinner. Early expert through pretty imagine organization sign. Respond public respond.",
+        "bio": "Result care back race south good. Including another including condition possible person. On I near."
+    },
+    "currency": [
+        "CHF",
+        "Swiss franc"
+    ]
+}
