@@ -1,0 +1,25 @@
+{
+    "name": "Jessica Vasquez",
+    "age": 27,
+    "address": {
+        "street": "Jackson Centers",
+        "city": "Jennafurt",
+        "state": "Washington",
+        "zip": "87794"
+    },
+    "contact": {
+        "phone": "797-507-7871x4783",
+        "servicePhone": "800192540"
+    },
+    "birthday": "1998-03-12",
+    "ip": "211.54.80.168",
+    "foo": "bar",
+    "profile": {
+        "about": "Way single low behind despite. Kind successful than as house.\nHappen significant television walk for. Who budget science list than. Picture none admit federal old less walk of.",
+        "bio": "Traditional population include avoid nature. Entire visit imagine detail military democratic face. Day audience end suggest performance. Effect street him evidence.\nSoldier test decision."
+    },
+    "currency": [
+        "LYD",
+        "Libyan dinar"
+    ]
+}
