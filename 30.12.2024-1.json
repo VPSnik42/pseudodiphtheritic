@@ -1,0 +1,25 @@
+{
+    "name": "Jessica Campos",
+    "age": 1,
+    "address": {
+        "street": "Sarah Rest",
+        "city": "North Nicolemouth",
+        "state": "Maryland",
+        "zip": "93708"
+    },
+    "contact": {
+        "phone": "+1-991-296-5255x746",
+        "servicePhone": "800092872"
+    },
+    "birthday": "2024-06-07",
+    "ip": "146.73.26.63",
+    "foo": "bar",
+    "profile": {
+        "about": "Eat put phone despite.\nBudget third human their wife address. Music decade story page before case week.\nEnough should sport resource audience eight onto. Down glass hundred daughter relationship my.",
+        "bio": "Real law perform kind form real. Work policy great off guy seem.\nHead form another. Find east note left. Police project project despite mind.\nTraining water send ball so. Head few teach."
+    },
+    "currency": [
+        "QAR",
+        "Qatari riyal"
+    ]
+}
