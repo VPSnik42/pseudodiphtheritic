@@ -1,0 +1,25 @@
+{
+    "name": "Nicole Green",
+    "age": 8,
+    "address": {
+        "street": "Barnett Flats",
+        "city": "Kristenshire",
+        "state": "Hawaii",
+        "zip": "06925"
+    },
+    "contact": {
+        "phone": "636-744-8309",
+        "servicePhone": "800922237"
+    },
+    "birthday": "2017-10-10",
+    "ip": "207.48.193.99",
+    "foo": "bar",
+    "profile": {
+        "about": "Which carry truth skill. Expert participant member view. Toward on board those sometimes agent entire.\nLeft lot hand. You yourself require military. Military your change blue.",
+        "bio": "Time leader direction goal remember. Bad to generation follow forget.\nSchool see design during hit right. Manager by reach director might.\nThere best fine. Fish early information prove receive up."
+    },
+    "currency": [
+        "MRO",
+        "Mauritanian ouguiya"
+    ]
+}
