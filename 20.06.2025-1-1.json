@@ -1,0 +1,25 @@
+{
+    "name": "Sharon Fitzgerald",
+    "age": 47,
+    "address": {
+        "street": "Danielle Port",
+        "city": "Jeffersonton",
+        "state": "Ohio",
+        "zip": "85074"
+    },
+    "contact": {
+        "phone": "247-218-7005",
+        "servicePhone": "800270020"
+    },
+    "birthday": "1978-07-10",
+    "ip": "41.211.32.151",
+    "foo": "bar",
+    "profile": {
+        "about": "Traditional project she amount just third establish several. Hospital knowledge prepare food increase. War college forget certainly traditional many.",
+        "bio": "Without time type simply night approach research citizen. Gas sing industry add second sing. Visit whole table candidate."
+    },
+    "currency": [
+        "IQD",
+        "Iraqi dinar"
+    ]
+}
