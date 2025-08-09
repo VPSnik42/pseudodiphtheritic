@@ -1,0 +1,25 @@
+{
+    "name": "Ashley Smith",
+    "age": 6,
+    "address": {
+        "street": "Hodge Springs",
+        "city": "Lake Andrewshire",
+        "state": "Louisiana",
+        "zip": "33937"
+    },
+    "contact": {
+        "phone": "001-490-772-2522x68124",
+        "servicePhone": "800579839"
+    },
+    "birthday": "2019-13-06",
+    "ip": "197.227.137.249",
+    "foo": "bar",
+    "profile": {
+        "about": "Read gas mean instead yourself interest. Own both lose open.\nWant car then. Ago change majority argue. Sell including us claim political however. Save brother nor miss.",
+        "bio": "Ball real full include. Treat soon most story writer."
+    },
+    "currency": [
+        "TND",
+        "Tunisian dinar"
+    ]
+}
