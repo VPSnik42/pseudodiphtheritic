@@ -1,0 +1,25 @@
+{
+    "name": "Kimberly Gay",
+    "age": 111,
+    "address": {
+        "street": "Cortez Ville",
+        "city": "Jamesshire",
+        "state": "Nevada",
+        "zip": "26048"
+    },
+    "contact": {
+        "phone": "001-739-795-8073x76255",
+        "servicePhone": "800823203"
+    },
+    "birthday": "1914-05-11",
+    "ip": "175.231.122.30",
+    "foo": "bar",
+    "profile": {
+        "about": "Would leg report dinner indicate. Guy charge could.\nDark church interview pretty. Control whatever image. Process today along remember class wish.",
+        "bio": "How thank ten seat simply lawyer. Politics at that partner rest eat exactly concern.\nNotice stay present market. Bill accept system should oil vote education."
+    },
+    "currency": [
+        "HTG",
+        "Haitian gourde"
+    ]
+}
