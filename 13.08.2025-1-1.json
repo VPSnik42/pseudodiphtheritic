@@ -1,0 +1,25 @@
+{
+    "name": "Raymond Holt",
+    "age": 64,
+    "address": {
+        "street": "Smith Mission",
+        "city": "Angelaville",
+        "state": "West Virginia",
+        "zip": "09026"
+    },
+    "contact": {
+        "phone": "4049417286",
+        "servicePhone": "800864182"
+    },
+    "birthday": "1961-07-02",
+    "ip": "137.243.133.238",
+    "foo": "bar",
+    "profile": {
+        "about": "Cover mission research follow. Close sell free region know.\nGive activity available. Protect paper word second baby red majority receive. Material small record expert sure eye.",
+        "bio": "Degree event word civil character thank serve. Film its hit imagine.\nBecome tree cup realize appear office. Make wall deal choose. What style worry lay fly."
+    },
+    "currency": [
+        "OMR",
+        "Omani rial"
+    ]
+}
