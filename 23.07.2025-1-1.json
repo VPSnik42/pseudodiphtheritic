@@ -1,0 +1,25 @@
+{
+    "name": "Frances Shaw",
+    "age": 44,
+    "address": {
+        "street": "Felicia Ports",
+        "city": "Kristafurt",
+        "state": "California",
+        "zip": "83197"
+    },
+    "contact": {
+        "phone": "(469)475-0551x1635",
+        "servicePhone": "800301255"
+    },
+    "birthday": "1981-10-09",
+    "ip": "10.83.228.159",
+    "foo": "bar",
+    "profile": {
+        "about": "Author forward heart theory. Although get hard manager scene develop edge. Than young high best mean each rich. Front expert subject expect throughout throughout.",
+        "bio": "Character reduce act answer man decide tax people. For view partner strategy. Rich mother serve five through free pattern."
+    },
+    "currency": [
+        "AED",
+        "United Arab Emirates dirham"
+    ]
+}
