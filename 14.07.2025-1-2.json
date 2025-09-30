@@ -1,0 +1,25 @@
+{
+    "name": "Desiree Lopez",
+    "age": 83,
+    "address": {
+        "street": "William Ville",
+        "city": "New Kimberly",
+        "state": "Tennessee",
+        "zip": "81539"
+    },
+    "contact": {
+        "phone": "+1-482-693-5842x3193",
+        "servicePhone": "800570290"
+    },
+    "birthday": "1942-12-12",
+    "ip": "90.137.114.218",
+    "foo": "bar",
+    "profile": {
+        "about": "Poor international late technology either school team. Ground realize relate my opportunity.",
+        "bio": "Store product focus hold standard. Treat material door unit once. Score book still machine four."
+    },
+    "currency": [
+        "MXN",
+        "Mexican peso"
+    ]
+}
