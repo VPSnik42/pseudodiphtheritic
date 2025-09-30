@@ -1,0 +1,25 @@
+{
+    "name": "Steven Armstrong",
+    "age": 22,
+    "address": {
+        "street": "Mary Parkways",
+        "city": "Port Tanyamouth",
+        "state": "Tennessee",
+        "zip": "74290"
+    },
+    "contact": {
+        "phone": "859.959.7275",
+        "servicePhone": "800033629"
+    },
+    "birthday": "2003-22-11",
+    "ip": "18.18.176.136",
+    "foo": "bar",
+    "profile": {
+        "about": "Make difference when college artist interest though station. Fact half brother positive.",
+        "bio": "Current tough spend it loss it he simply. Subject race over type whole actually than.\nFloor organization high people detail. Series he hard hotel set media. Provide tree general red."
+    },
+    "currency": [
+        "MYR",
+        "Malaysian ringgit"
+    ]
+}

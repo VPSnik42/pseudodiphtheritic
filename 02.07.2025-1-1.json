@@ -1,0 +1,25 @@
+{
+    "name": "Joshua Anderson Jr.",
+    "age": 45,
+    "address": {
+        "street": "Jennifer Ferry",
+        "city": "South Amyborough",
+        "state": "Rhode Island",
+        "zip": "30756"
+    },
+    "contact": {
+        "phone": "001-770-713-2104x526",
+        "servicePhone": "800995019"
+    },
+    "birthday": "1980-20-03",
+    "ip": "176.107.100.195",
+    "foo": "bar",
+    "profile": {
+        "about": "She large owner as imagine outside positive. President office rule country. Quality suffer whatever reveal.\nOffer yet maintain trade do.",
+        "bio": "Condition either drive although population thank.\nTheir coach their commercial plan. Note clear defense explain adult. East society use culture skill project rather job."
+    },
+    "currency": [
+        "SVC",
+        "Salvadoran colón"
+    ]
+}
