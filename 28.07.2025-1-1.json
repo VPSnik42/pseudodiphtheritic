@@ -1,0 +1,25 @@
+{
+    "name": "Jennifer Williams",
+    "age": 2,
+    "address": {
+        "street": "Butler Crossing",
+        "city": "Ramosburgh",
+        "state": "New York",
+        "zip": "71064"
+    },
+    "contact": {
+        "phone": "+1-828-549-9842x245",
+        "servicePhone": "800021683"
+    },
+    "birthday": "2023-14-06",
+    "ip": "101.63.151.118",
+    "foo": "bar",
+    "profile": {
+        "about": "Candidate improve newspaper detail smile teach realize. Edge trouble actually interview court pay air. Hand one letter difficult item.\nSpring would successful.",
+        "bio": "Cell enter fall cold. Big state star create beautiful agent whatever size. Cost old continue course PM like sister kid.\nRadio hit when any practice large PM never. Positive article result issue."
+    },
+    "currency": [
+        "FJD",
+        "Fijian dollar"
+    ]
+}
