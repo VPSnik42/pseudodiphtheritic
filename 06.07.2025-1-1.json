@@ -1,0 +1,25 @@
+{
+    "name": "Miranda Hernandez",
+    "age": 3,
+    "address": {
+        "street": "Torres Stravenue",
+        "city": "Wagnershire",
+        "state": "New Jersey",
+        "zip": "59701"
+    },
+    "contact": {
+        "phone": "857.502.3020x096",
+        "servicePhone": "800781621"
+    },
+    "birthday": "2022-22-09",
+    "ip": "159.83.226.115",
+    "foo": "bar",
+    "profile": {
+        "about": "Its citizen growth ask. Culture long standard start.",
+        "bio": "Meeting the successful building because production Democrat turn. Hope during move degree thought pay.\nThat maybe test cold degree. Degree hotel accept concern partner suggest gun."
+    },
+    "currency": [
+        "ALL",
+        "Albanian lek"
+    ]
+}

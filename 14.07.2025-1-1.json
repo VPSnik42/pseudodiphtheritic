@@ -1,0 +1,25 @@
+{
+    "name": "Kathryn Davis",
+    "age": 56,
+    "address": {
+        "street": "Jensen Trail",
+        "city": "Thompsonton",
+        "state": "North Carolina",
+        "zip": "31874"
+    },
+    "contact": {
+        "phone": "+1-564-731-8519x0153",
+        "servicePhone": "800453365"
+    },
+    "birthday": "1969-20-04",
+    "ip": "36.98.23.223",
+    "foo": "bar",
+    "profile": {
+        "about": "Probably in late man little parent build. Product then authority have seem respond machine their.",
+        "bio": "Play information network respond avoid play. Laugh officer watch nor. When final experience clear style.\nAttention image energy find land account box. Responsibility start summer girl."
+    },
+    "currency": [
+        "FKP",
+        "Falkland Islands pound"
+    ]
+}
